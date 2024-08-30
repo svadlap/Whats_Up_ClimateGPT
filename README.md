@@ -1,4 +1,4 @@
-# Whats-Up-ClimateGPT-
+# Whats-Up-ClimateGPT
 
 This repository is part of the DAEN 690 Capstone Project at the College of Engineering, Fall 2024. The project focuses on improving the performance of ClimateGPT, an open-source AI model developed by Erasmus.AI in collaboration with the Club of Rome Climate. ClimateGPT is designed to assist researchers, policymakers, and business leaders in making informed decisions about climate change mitigation and adaptation.
 
