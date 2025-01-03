@@ -1,4 +1,4 @@
-#What’s Up ClimateGPT
+<h1>What’s Up ClimateGPT</h1>
 
 # Repository Overview
 
