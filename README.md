@@ -1,4 +1,4 @@
-# GMU_DAEN_Team_1 - What’s Up ClimateGPT
+#What’s Up ClimateGPT
 
 # Repository Overview
 
